@@ -8,3 +8,5 @@ public class Main {
         new MainView().setVisible(true);
     }
 }
+
+// mantap poll
